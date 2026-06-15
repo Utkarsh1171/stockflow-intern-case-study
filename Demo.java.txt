@@ -1,5 +1,9 @@
 Class demo{
 public static void main(String[] args){
+<<<<<<< Updated upstream
+=======
+System.out.println("Welcome back");
+>>>>>>> Stashed changes
 System.out.println("Hello Utkarsh");
 //Modification on Code
 int a=10;
